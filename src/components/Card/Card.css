@@ -1,0 +1,12 @@
+img{
+    object-fit: cover;
+}
+
+.watch-more{
+    background: #1E6750;
+}
+
+.watch-more:hover{
+    background: #1E6753;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
